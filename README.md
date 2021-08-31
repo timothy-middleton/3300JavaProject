@@ -1,4 +1,4 @@
-# 3300JavaProject
+# JavaProjectDiscription
 Description: Choose a project that you will implement using the JAVA programming language. This project
 must be created using a NetBeans IDE. Do not use any other language or IDE. You will also document this 
 project in the form of a typed paper and present the project to the class. You may form a group in order to do 
